@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="./cosmos.jpg" width="28" style="border-radius:6px" />
-  <em>"Somewhere, something incredible is waiting to be known." &mdash; Carl Sagan</em>
+  <em>"Somewhere, something incredible is waiting to be known." Carl Sagan</em>
 </p>
 
 <h3 align="center">Half developer, half madness. Coding systems, decoding the universe.</h3>
