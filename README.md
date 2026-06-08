@@ -1,20 +1,9 @@
-<h1 align="center">I'm Gabriel Anthony</h1>
-
 <p align="center">
   <img src="./cosmos.jpg" width="28" style="border-radius:6px" />
   <em>"Somewhere, something incredible is waiting to be known." Carl Sagan</em>
 </p>
 
 <h3 align="center">Half developer, half madness. Coding systems, decoding the universe.</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anthony-gabriell&label=Profile%20views&color=6f42c1&style=flat" alt="profile views" />
-</p>
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Anthony-gabriell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="github stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anthony-gabriell&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
-</div>
 
 <br>
 
