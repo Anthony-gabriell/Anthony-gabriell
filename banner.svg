@@ -1,0 +1,52 @@
+<svg width="100%" viewBox="0 0 680 220" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Spacetime banner</title>
+<desc>A dark space scene with a warped spacetime grid, a glowing orb, an orbiting particle and scattered stars.</desc>
+<defs>
+<radialGradient id="orb" cx="50%" cy="50%" r="50%">
+<stop offset="0%" stop-color="#a9c7ff"/>
+<stop offset="45%" stop-color="#5b8def"/>
+<stop offset="100%" stop-color="#2d4a8a"/>
+</radialGradient>
+<radialGradient id="glow" cx="50%" cy="50%" r="50%">
+<stop offset="0%" stop-color="#6f8fff" stop-opacity="0.45"/>
+<stop offset="100%" stop-color="#6f8fff" stop-opacity="0"/>
+</radialGradient>
+</defs>
+
+<rect x="0" y="0" width="680" height="220" rx="12" fill="#0d1117"/>
+
+<g fill="#ffffff">
+<circle cx="40" cy="30" r="1.1" opacity="0.8"/>
+<circle cx="120" cy="55" r="0.8" opacity="0.6"/>
+<circle cx="210" cy="25" r="1.3" opacity="0.9"/>
+<circle cx="300" cy="45" r="0.7" opacity="0.5"/>
+<circle cx="470" cy="28" r="1.1" opacity="0.8"/>
+<circle cx="560" cy="50" r="0.9" opacity="0.7"/>
+<circle cx="630" cy="32" r="1.2" opacity="0.85"/>
+<circle cx="650" cy="80" r="0.7" opacity="0.5"/>
+<circle cx="80" cy="100" r="0.8" opacity="0.6"/>
+<circle cx="30" cy="160" r="1.0" opacity="0.7"/>
+<circle cx="600" cy="160" r="0.9" opacity="0.6"/>
+<circle cx="655" cy="190" r="1.1" opacity="0.75"/>
+<circle cx="25" cy="200" r="0.8" opacity="0.5"/>
+</g>
+
+<g stroke="#3a4a6b" stroke-width="0.6" fill="none" opacity="0.85">
+<path d="M0 120 Q 340 235 680 120"/>
+<path d="M0 135 Q 340 250 680 135"/>
+<path d="M0 150 Q 340 268 680 150"/>
+<path d="M0 168 Q 340 290 680 168"/>
+<path d="M70 110 Q 340 280 70 280"/>
+<path d="M180 110 Q 340 250 180 290"/>
+<path d="M340 108 L 340 300"/>
+<path d="M500 110 Q 340 250 500 290"/>
+<path d="M610 110 Q 340 280 610 280"/>
+</g>
+
+<circle cx="340" cy="150" r="60" fill="url(#glow)"/>
+<ellipse cx="340" cy="150" rx="92" ry="34" stroke="#5b8def" stroke-width="0.7" fill="none" opacity="0.6"/>
+<circle cx="340" cy="150" r="26" fill="url(#orb)"/>
+<circle cx="432" cy="150" r="3.5" fill="#a9c7ff"/>
+
+<text x="340" y="62" text-anchor="middle" font-family="monospace" font-size="13" fill="#8aa6ff" letter-spacing="3">CODING SYSTEMS · DECODING THE UNIVERSE</text>
+</svg>
