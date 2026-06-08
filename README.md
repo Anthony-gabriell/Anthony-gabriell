@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="./banner.svg" alt="Coding systems, decoding the universe" width="100%" />
-</p>
-
-<p align="center">
-  <em>"Somewhere, something incredible is waiting to be known." Carl Sagan</em>
+  <img src="./cosmos.jpg" width="28" style="border-radius:6px" />
+  <em>"Somewhere, something incredible is waiting to be known." &mdash; Carl Sagan</em>
 </p>
 
 <h1 align="center">I'm Gabriel Anthony</h1>
