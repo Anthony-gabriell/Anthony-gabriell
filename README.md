@@ -1,4 +1,6 @@
-<img src="./banner.png" alt="Coding systems, decoding the universe" width="100%" />
+<p align="center">
+  <img src="./banner.svg" alt="Coding systems, decoding the universe" width="100%" />
+</p>
 
 <p align="center">
   <em>"Somewhere, something incredible is waiting to be known." Carl Sagan</em>
